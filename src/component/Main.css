@@ -1,0 +1,154 @@
+.home{
+    display: flex;
+    flex-direction:row;
+    align-items: center;
+    padding: 0px;
+    gap: 22px;
+    justify-content: center;
+    width: 128.57px;
+    height: 33px;
+    left: 58px;
+    top: 106px;
+    margin-top: 106px;
+    margin-left: 58px;
+
+}
+.home-text{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 33px;
+    color: #000000;
+}
+.arrow{
+    font-size: larger;
+    font-weight: bolder;
+
+}
+section{
+    margin-left: 140px;
+    margin-right: 137px;
+}
+
+.line2{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: space-between;
+    padding: 10px;
+    gap: 10px;
+}
+.my-acc{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 38px;
+    color: #000000;
+}
+.need-help{
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 38px;
+    color: #0048CD;
+}
+
+.name-rp{
+    padding: 10px;
+    margin-top: 21px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 42px;
+    color: #000000;
+
+}
+.c-b{
+    color:rgba(0,72,205,1)
+}
+
+.edit-bt{
+    margin-right: 9px;
+    font-family: 'Roboto';
+    font-weight: 600;
+    font-style: normal;
+    font-size: 20px;
+    line-height: 23px;
+    color: #3A3838;
+}
+
+.tracking{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 17px;
+    gap: 12px;
+}
+.tr-head{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 28px;
+    margin-right: 20px;
+    color: #000000;
+
+}
+.txt{
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-style: normal;
+    font-size: 13px;
+    line-height: 19px;
+    color: rgba(0, 0, 0, 0.5);
+    
+}
+.sp-img{
+    margin-left: 60px;
+}
+.line{
+    width: 980px;
+}
+.img-pd{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 10px;
+    justify-content: center;
+
+}
+
+.img-pd img{
+    padding-top:100px ;
+}
+.lst-div{
+    padding-top: 170px;
+}
+.look-to{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 35px;
+    line-height: 41px;
+    margin-bottom: 13px;
+    color: #000000;
+
+}
+.btn-lg{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 35px;
+    line-height: 41px;
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    border-radius: 11px;
+    color: #0048CD;
+    margin-left: 66px;
+}
